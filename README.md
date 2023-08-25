@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Prathamesh Pande</h1>
 <h3 align="center">MERN Stack developer and Java enthusiast.</h3>
 
