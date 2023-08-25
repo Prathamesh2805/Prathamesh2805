@@ -27,5 +27,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathamesh2805&" alt="prathamesh2805" /></p>
 
-### 📈 My GitHub Contributions
-![Snake animation](https://github.com/Prathamesh2805/Prathamesh2805/blob/output/github-contribution-grid-snake.svg)
