@@ -1,14 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm Prathamesh Pande</h1>
-<h3 align="center">MERN Stack developer and Java enthusiast.</h3>
+<h3 align="center">MERN Stack | Java | Python</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamesh2805&label=Profile%20views&color=0e75b6&style=flat" alt="prathamesh2805" /> </p>
 
 <p align="left"> <a href="https://twitter.com/being_clickr" target="blank"><img src="https://img.shields.io/twitter/follow/being_clickr?logo=twitter&style=for-the-badge" alt="being_clickr" /></a> </p>
 
-- 🔭 I’m currently working on **CarPool Web app**
+- 🔭 I’m currently ocntributing to  **OPen Source projects**
 
-- 🌱 I’m currently learning **ExpressJs**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **pandepm28@gmail.com**
 
