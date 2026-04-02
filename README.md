@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Prathamesh Pande</h1>
-<h3 align="center">MERN Stack | Java | Python</h3>
+<h3 align="center">Java Backedn | React </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamesh2805&label=Profile%20views&color=0e75b6&style=flat" alt="prathamesh2805" /> </p>
 
@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently ocntributing to  **Open Source projects**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **pandepm28@gmail.com**
 
