@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/being_clickr" target="blank"><img src="https://img.shields.io/twitter/follow/being_clickr?logo=twitter&style=for-the-badge" alt="being_clickr" /></a> </p>
 
-- 🔭 I’m currently ocntributing to  **Open Source projects**
+- 🔭 I’m currently contributing to  **Open Source projects**
 
 - 🌱 I’m currently learning **Java**
 
